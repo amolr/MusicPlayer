@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MusicPlayer", "MusicPlayer\MusicPlayer.vcxproj", "{4214EB1F-30A4-4395-A785-1067C909A65F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MusicPlayerTest", "MusicPlayerTest\MusicPlayerTest.vcxproj", "{558CB410-6244-43A4-8D5F-6508A7C62146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4214EB1F-30A4-4395-A785-1067C909A65F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4214EB1F-30A4-4395-A785-1067C909A65F}.Debug|Win32.Build.0 = Debug|Win32
+		{4214EB1F-30A4-4395-A785-1067C909A65F}.Release|Win32.ActiveCfg = Release|Win32
+		{4214EB1F-30A4-4395-A785-1067C909A65F}.Release|Win32.Build.0 = Release|Win32
+		{558CB410-6244-43A4-8D5F-6508A7C62146}.Debug|Win32.ActiveCfg = Debug|Win32
+		{558CB410-6244-43A4-8D5F-6508A7C62146}.Debug|Win32.Build.0 = Debug|Win32
+		{558CB410-6244-43A4-8D5F-6508A7C62146}.Release|Win32.ActiveCfg = Release|Win32
+		{558CB410-6244-43A4-8D5F-6508A7C62146}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,24 @@
+﻿Build started 9/14/2015 5:26:24 PM.
+     1>Project "D:\MusicPlayer\MusicPlayerTest\MusicPlayerTest.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ID:\MusicPlayer\MusicPlayer /I"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\UnitTest\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MusicPlayerTest.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /FC /errorReport:prompt CreatePlaylistUnitTest.cpp DeleteMusicUnitTest.cpp InsertMusicUnitTest.cpp PlayTrackUnitTest.cpp ShuffleMusicUnitTest.cpp
+         ShuffleMusicUnitTest.cpp
+         PlayTrackUnitTest.cpp
+         InsertMusicUnitTest.cpp
+         DeleteMusicUnitTest.cpp
+         CreatePlaylistUnitTest.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\MusicPlayer\Debug\MusicPlayerTest.dll" /INCREMENTAL /NOLOGO /LIBPATH:D:\MusicPlayer\MusicPlayer\Debug /LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\UnitTest\lib" MusicPlayer.obj MusicNode.obj kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\MusicPlayer\Debug\MusicPlayerTest.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\MusicPlayer\Debug\MusicPlayerTest.lib" /MACHINE:X86 /DLL Debug\DeleteMusicUnitTest.obj
+         Debug\InsertMusicUnitTest.obj
+         Debug\PlayTrackUnitTest.obj
+         Debug\ShuffleMusicUnitTest.obj
+         Debug\stdafx.obj
+         Debug\CreatePlaylistUnitTest.obj
+            Creating library D:\MusicPlayer\Debug\MusicPlayerTest.lib and object D:\MusicPlayer\Debug\MusicPlayerTest.exp
+         MusicPlayerTest.vcxproj -> D:\MusicPlayer\Debug\MusicPlayerTest.dll
+     1>Done Building Project "D:\MusicPlayer\MusicPlayerTest\MusicPlayerTest.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.50
